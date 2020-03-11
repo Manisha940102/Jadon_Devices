@@ -1,0 +1,35 @@
+<div class="container">
+<table class="table table-hover ">
+    <thead>
+      <tr>
+        <th scope="col">Employee No</th>
+        <th scope="col">Employee</th>
+        <th scope="col">Start Date</th>
+        <th scope="col">Assest Type</th>
+        <th scope="col">Owner</th>
+        <th scope="col">Serial No</th>
+        <th scope="col">Model</th>
+        <th scope="col">Remarks</th>
+        <th scope="col">End Date</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let hero of registeredDevice | async; let i = index">
+        <td>{{ hero.id }}</td>
+        <td>{{hero.employee_name}}</td>
+        <td>{{hero.Start_date}}</td>
+        <td>{{hero.assest_type}}</td>
+        <td>{{hero.owner}}</td>
+        <td>{{hero.serial_no}}</td>
+        <td>{{hero.model}}</td>
+        <td>{{hero.remarks}}</td>
+        <td>{{hero.end_date}}</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+
+
+  
+
+     

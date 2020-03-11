@@ -1,0 +1,39 @@
+[
+  {
+    "id": "1",
+    "employee_name": "amit",
+    "Start_date": "xx",
+    "assest_type": "xx",
+    "owner": "fd",
+    "serial_no":"xx",
+    "model":"xx",
+    "remarks":"xx",
+    "end_date":"xx"
+
+  },
+  {
+    "id": "1",
+    "employee_name": "amit",
+    "Start_date": "xx",
+    "assest_type": "xx",
+    "owner": "fd",
+    "serial_no":"xx",
+    "model":"xx",
+    "remarks":"xx",
+    "end_date":"xx"
+
+  },
+  {
+    "id": "1",
+    "employee_name": "amit",
+    "Start_date": "xx",
+    "assest_type": "xx",
+    "owner": "fd",
+    "serial_no":"xx",
+    "model":"xx",
+    "remarks":"xx",
+    "end_date":"xx"
+
+  }
+
+]
